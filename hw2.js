@@ -1,9 +1,10 @@
-//let x = 5;
-//let y = 5;
+let x = 5;
+let y = 5;
 
-//let resN = `${x * y}`
+x *= y; 
 
-//console.log(resN)
+console.log(x)
+
 
 
 let str = "Hello World!";
@@ -19,8 +20,8 @@ let let1 = "This is a boom text.";
 let replacedText = let1.replace("boom", "BANG");
 console.log(replacedText); 
 
-let x = 5;
-let y = 10;
+//let x = 5;
+//let y = 10;
 
 if (x != y) {
     console.log(true);
